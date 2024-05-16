@@ -19,7 +19,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         servers = {
                 @Server(
                         description = "Railway App",
-                        url = "https://neobisauth-production.up.railway.app/"
+                        url = "neobis-cookscorner-production.up.railway.app/"
                 )
         }
 )
